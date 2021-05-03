@@ -1,0 +1,14 @@
+.header-content{
+  display: flex;
+  flex-direction: column;
+  height: 60vh;
+  justify-content: center;
+  text-align: center;
+}
+
+.header-content h1{
+  font-size: 3rem;
+  font-weight: normal;
+  width: 16ch;
+  align-self: center;
+}
